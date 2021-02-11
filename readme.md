@@ -22,7 +22,7 @@ This is a simple application created using `React Native` to mimic basic design 
 3. Install node modules with type `npm install` or `yarn install`
 4. Run App with type `react-native run-android`
 
-## Download the APK (DoogetherTest)
+## Download the APK (Twitter Clone App)
 
 You can Download the APK [`here`](https://drive.google.com/file/d/1GlxbYeLnAthLgjG6Ay6RZGKfLKKdCclJ/view?usp=sharing)
 
