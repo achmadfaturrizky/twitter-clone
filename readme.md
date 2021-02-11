@@ -1,4 +1,4 @@
-<h1 align="center">Doogether Test<br>( React Native Mobile App - Android )</h1>
+<h1 align="center">Twitter Clone App<br>( React Native Mobile App - Android )</h1>
 
 <p align="center">
   <img src="screenshot/logo.png" width="200"/>
