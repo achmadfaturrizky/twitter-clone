@@ -9,7 +9,7 @@
 [![React Native](https://img.shields.io/badge/react--native-v0.63.4-blue)](https://facebook.github.io/react-native/)
 [![React Navigation](https://img.shields.io/badge/react--navigation-v5.9.2-blueviolet)](https://reactnavigation.org/)
 
-<p align='justify'>This is a simple application created using `React Native` to mimic basic design and functionality of the official Twitter app.</p>
+This is a simple application created using `React Native` to mimic basic design and functionality of the official Twitter app.
 
 ## Features
 
