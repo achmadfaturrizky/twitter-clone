@@ -31,7 +31,9 @@ function HomeScreen() {
           }}
         />
         <View style={{flex: 3, marginLeft: 10}}>
-          <Text style={styles.textFullname}>{item?.user?.fullname}</Text>
+          <Text style={styles.textFullname} numberOfLines={1}>
+            {item?.user?.fullname}
+          </Text>
           <Text style={{width: 250}}>{item?.desc}</Text>
           <Image source={{uri: item.image}} style={styles.image} />
           <View style={styles.containerBottom}>
@@ -102,6 +104,7 @@ export default function Content() {
         tabStyle: {
           borderBottomColor: '#1DA1F2',
           backgroundColor: '#fff',
+          borderBottomWidth: 1,
         },
         labelStyle: {
           textTransform: 'capitalize',
@@ -142,6 +145,7 @@ const styles = StyleSheet.create({
   },
   textFullname: {
     fontFamily: Bold,
+    width: 200,
   },
   image: {
     width: '110%',
